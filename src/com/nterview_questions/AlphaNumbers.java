@@ -7,7 +7,7 @@ public class AlphaNumbers {
 
 		//Find out how many alpha characters present in a string?
 		//number3
-		String s = "Java,567Killers*";
+		String s = "Java,567Killers,YY*";
 		String s1=s.replaceAll("[^A-Za-z]","");
 		  System.out.println(s1.length());
 		  System.out.println(s1);
