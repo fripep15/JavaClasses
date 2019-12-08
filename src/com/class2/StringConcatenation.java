@@ -49,7 +49,7 @@ public class StringConcatenation {
 		System.out.println("123"+ (l+w));// 1239
 		System.out.println(l+"2"+w);//425
 		
-		//Task 3;
+		//Degree 3;
 		
 		System.out.println(1+"2"+3);//123
 		System.out.println(1+2+"3");//33

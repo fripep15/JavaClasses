@@ -11,7 +11,7 @@ public class HomeWork {
 		 * 
 		 * 
 		 * if the average scoore >=90---grade =A if the average scoore >=70- and
-		 * <90--grade =B if the average scoore >=50- and <70--grade =C if the average
+		 * <90--grade =Result if the average scoore >=50- and <70--grade =C if the average
 		 * scoore <50---grade =F
 		 */
 
@@ -33,7 +33,7 @@ public class HomeWork {
 			System.out.println("A");
 
 		} else if (average >= 70 && average < 90) {
-			System.out.println("B");
+			System.out.println("Result");
 
 		} else if (average >= 50 && average < 70) {
 			System.out.println("C");

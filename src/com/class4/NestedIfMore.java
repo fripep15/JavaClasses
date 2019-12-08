@@ -26,7 +26,7 @@ public class NestedIfMore {
 		 * if Yes----> Good Job, if not ----> NoT Good
 		 * If they completed we will check score
 		 * if more than 90---> you got an A
-		 * if more than 80----> you got a B
+		 * if more than 80----> you got a Result
 		 * anythin below ----> you should study more
 		 */
 		
@@ -37,7 +37,7 @@ public class NestedIfMore {
 			if (score>=90) {
 				System.out.println(" You Got n A");
 			}else if (score>80) {
-				System.out.println(" You Got a B");
+				System.out.println(" You Got a Result");
 			}else {
 			System.out.println(" Not Good !!!");
 		}

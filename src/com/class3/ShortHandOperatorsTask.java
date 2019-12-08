@@ -38,7 +38,7 @@ public static void main(String[] args) {
 System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
 
    
-   // Task: do the addition, subtraction, multiplication, division and modulus using shorthand operators
+   // Degree: do the addition, subtraction, multiplication, division and modulus using shorthand operators
 
     int a1=100;
 	a1+=10;

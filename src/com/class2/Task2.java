@@ -4,7 +4,7 @@ public class Task2 {
 
 	public static void main(String[] args) {
 		
-		//Task 1
+		//Degree 1
 		double x, y;
 		x= 5.5;
 		y=4.5;
@@ -15,7 +15,7 @@ public class Task2 {
 		
 			System.out.println("the sum of 2 numbers " + x + "and" + y + " is euqal to " + sum);
 			
-		//	Task 2:
+		//	Degree 2:
 			//write a program to find the square of the number 3.9. Your program should say "the square of---- and --"
 					
 		double num1, num2;
@@ -27,7 +27,7 @@ public class Task2 {
 		
 			
 			
-			// Task 3:
+			// Degree 3:
 			// write a program to print the area of perimeter of a rectangle with width=5 and height = 8
 			// your program should say " the perimeter of a rectangle with width --- and height --- is equal to --- and 
 			/// the are is ---"

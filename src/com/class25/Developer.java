@@ -7,4 +7,8 @@ public class Developer extends ScrumTeam {
 		System.out.println(" I do coding ");
 	}
 	
+	public static void main(String[] args) {
+		
+	}
+	
 }

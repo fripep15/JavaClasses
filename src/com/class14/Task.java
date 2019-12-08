@@ -32,7 +32,7 @@ public class Task {
 		
 		System.out.println();
 		
-		System.out.println(" Task 3*******You have a String a=”Is it saturday? Is it raining? Do we have a Java Class today?” "
+		System.out.println(" Degree 3*******You have a String a=”Is it saturday? Is it raining? Do we have a Java Class today?” "
 				+ "How would you find out how many sentences are in that String?");
 		
 		String str3="Is it saturday. Is it raining. Do we have a Java Class today.";

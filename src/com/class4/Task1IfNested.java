@@ -19,7 +19,7 @@ public class Task1IfNested {
 		}
 		System.out.println("+++++++++++++++++++++++++++++++++");
 
-		// Task 2:
+		// Degree 2:
 
 		double morgage = 4.4;
 		int price = 250000;

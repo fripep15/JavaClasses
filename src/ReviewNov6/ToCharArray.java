@@ -25,7 +25,7 @@ public class ToCharArray {
 		        System.out.println("-->\tReplace \"a\" with \"e\"");
 		        String anotherStr = "";
 //		      anotherStr += 'A';
-//		      anotherStr += 'B';
+//		      anotherStr += 'Result';
 //		      anotherStr += 'C';
 //		      System.out.println(anotherStr);
 		        for (char element : charArray) {

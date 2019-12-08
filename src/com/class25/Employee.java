@@ -2,9 +2,9 @@ package com.class25;
 
 public class Employee {
 	
+	public static String companyName;
 	int salary;
-	static String companyName;
-	
+	private String EmployeeSsn;
 	void work() {
 		System.out.println(" I work in  " + companyName + "company");
 	}

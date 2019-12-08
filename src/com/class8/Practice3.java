@@ -6,9 +6,9 @@ public class Practice3 {
 
 	public static void main(String[] args) {
 		/*
-		 * Task 1// print numbers from 1 to 50 except those are divisible by 3
+		 * Degree 1// print numbers from 1 to 50 except those are divisible by 3
 		 * 
-		 * Task 2// Create a program that will be asking user to apply for a credit car
+		 * Degree 2// Create a program that will be asking user to apply for a credit car
 		 * 10 times. as soon you get an "yes" from the a user program should stop
 		 * asking.
 		 */

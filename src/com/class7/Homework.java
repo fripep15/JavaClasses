@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Homework {
 	
 public static void main(String[] args) {
-	// Task 2 find largest number using nested if
+	// Degree 2 find largest number using nested if
 	Scanner scan=new Scanner(System.in);
 	int num1,num2,num3;
     
